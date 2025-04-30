@@ -8,9 +8,9 @@ It was created as part of an application to Ensemble’s ML Research Internship 
 
 ## 📁 Project Structure
 
-- `ndlinear_fashionmnist.ipynb`: Main notebook containing the experiment and results
+- `NdLinear-vs-nn.Linear-on-FashionMNIST.ipynb`: Main notebook containing the experiment and results
 - `README.md`: Project overview
-- `requirements.txt`: Dependencies (optional)
+
 
 ---
 
