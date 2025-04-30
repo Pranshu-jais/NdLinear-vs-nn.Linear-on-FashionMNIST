@@ -72,8 +72,8 @@ NdLinear is designed to be a flexible, efficient replacement for `nn.Linear`, po
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ndlinear-fmnist.git
-cd ndlinear-fmnist
+git clone https://github.com/Pranshu-jais/NdLinear-vs-nn.Linear-on-FashionMNIST.git
+cd NdLinear-vs-nn.Linear-on-FashionMNIST
 
 # Install dependencies
 pip install torch torchvision matplotlib pandas ndlinear
