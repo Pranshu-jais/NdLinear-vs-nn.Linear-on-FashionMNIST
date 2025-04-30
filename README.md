@@ -60,9 +60,10 @@ Evaluate how replacing `nn.Linear` layers with `NdLinear` affects:
 
 NdLinear is designed to be a flexible, efficient replacement for `nn.Linear`, potentially enabling:
 
-- Lower memory usage
-- Faster inference on-device
-- Layer compression through rank reduction (optional in advanced use cases)
+- Structure Preservation: Retains the original data format and shape.
+- Parameter Efficiency: Reduces parameter count while improving performance.
+- Minimal Overhead: Maintains the same complexity as conventional linear layers.
+- Flexible Integration: Seamlessly replaces existing linear layers.
 
 🔗 Learn more: [https://github.com/ensemble-core/NdLinear](https://github.com/ensemble-core/NdLinear)
 
